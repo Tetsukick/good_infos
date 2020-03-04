@@ -10,6 +10,8 @@
 → Flutterの採用言語のDartと同じ
 - [FuchciaのUI開発キットとして、Flutterが採用](https://fuchsia.dev/fuchsia-src/development/languages/dart/mods)
 → 次期IoTOSとしてのFuchciaのUI開発キットとして採用
+- IoT端末との連携も視野にいれることができる。
+→ [GoogleのスマートディスプレイのGoogle Assistantにも採用](https://flutter.dev/showcase)
 
 # Flutterのリスク
 
