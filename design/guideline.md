@@ -17,7 +17,19 @@ Apple、Googleともに文字の最小サイズに関する具体的な指定が
 
 ### 2. ボタン
 #### 2-1. サイズ
-横96px×縦96px以上（物理サイズ9mm×9mm以上）
+横96px×縦96px以上（物理サイズ9mm×9mm以上）  
+> Apple  
+
+```
+Provide ample touch targets for interactive elements. Try to maintain a minimum tappable area of 44pt x 44pt for all controls.
+```
+
+> マテリアルデザイン
+
+```
+For most platforms, consider making touch targets at least 48 x 48 dp
+```
+
 #### 2-4. マージン
 ボタン同士は16px以上離す  
 #### 2-6. 配置
