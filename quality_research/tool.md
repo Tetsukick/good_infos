@@ -10,3 +10,5 @@ Chromeの検証ツールで様々な視点でのパフォーマンス検証が�
 
 - [Speed index] (https://www.webpagetest.org/forums/showthread.php?tid=11776)
 
+- [モバイルフレンドリーテスト](https://search.google.com/test/mobile-friendly)
+
