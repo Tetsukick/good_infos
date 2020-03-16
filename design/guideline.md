@@ -14,6 +14,9 @@
 欧文＝11pt、和文＝13pt  
 
 Apple、Googleともに文字の最小サイズに関する具体的な指定があります。双方を判断し、欧文は11pt相当、和文は13pt相当を最小サイズとするのが良いでしょう。  
+１ｐｔ＝１.３３ｐｘ   
+
+[16px 未満でフォーム入力時に拡大される。](http://cly7796.net/wp/css/the-screen-zooms-when-filling-out-forms-on-ios/)
 
 ### 2. ボタン
 #### 2-1. サイズ
