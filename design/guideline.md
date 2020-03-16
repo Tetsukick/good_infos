@@ -9,6 +9,8 @@
 
 ## [Apple, Googleガイドライン比較記事](https://baigie.me/sogitani/2015/07/apple-google-design-guideline/)
 
+[Appleとgoogleのデザインガイドライン比較](https://www.slideshare.net/arasunatomoyuki/applegoogleweb-50201232?ref=https://baigie.me/sogitani/2015/07/apple-google-design-guideline/)  
+
 ### 1. 文字
 #### 1-1. 最小サイズ
 欧文＝11pt、和文＝13pt  
