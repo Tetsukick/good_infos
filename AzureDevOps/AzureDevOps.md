@@ -1,6 +1,7 @@
 ## 公式
 - [Twitter](https://twitter.com/azuredevops)
 - [DevOps プラクティスを発展させる](https://docs.microsoft.com/ja-jp/learn/paths/evolve-your-devops-practices/)
+- [Velocity metrics and usage guidance](https://docs.microsoft.com/en-us/azure/devops/report/dashboards/velocity-guidance)
 
 ## その他
 - [Micro Soft社 タカハシさんQiita](https://qiita.com/mstakaha1113)
