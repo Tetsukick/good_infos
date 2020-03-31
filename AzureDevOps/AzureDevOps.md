@@ -10,3 +10,4 @@
 - [Azure DevOps × スクラム で実現するプロダクト開発のポイント](https://www.slideshare.net/fullvirtue/azure-devops-dotnetlab-jazug)
 - [Azure DevOps の試したいプラグインまとめ](https://qiita.com/Takaichi00/items/604c12fa1be91b4c143e)Azure Boardsを使用したスクラム実践例
 - [Azure Boardsを使用したスクラム実践例](https://fintan.jp/?p=1383)
+- [Azure DevOps と開発管理](https://www.slideshare.net/tsukasakatou9/azure-devops-208139445)
