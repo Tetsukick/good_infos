@@ -1,1 +1,1 @@
-- [環境構築](https://qiita.com/colorrabbit/items/0e481af2490603a271fe)
+- [環境構築](https://www.compiere-distribution-lab.net/idempiere-lab/install/windows10/)
