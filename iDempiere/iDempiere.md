@@ -2,3 +2,4 @@
 - [環境構築](https://www.compiere-distribution-lab.net/idempiere-lab/install/windows10/)
 - [ログイン関連](https://www.compiere-distribution-lab.net/2013-10-12-idempiere-login/#no1)
 - [日本語設定](https://www.compiere-distribution-lab.net/2013/11/10/idempiere-lab-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E7%BF%BB%E8%A8%B3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95/#no1)
+- [クライアント初期設定]https://www.compiere-distribution-lab.net/2014/11/24/idempiere-lab-ver2-1%E3%81%AE%E6%96%B0%E6%A9%9F%E8%83%BD-%E7%B0%A1%E5%8D%98%E3%81%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%81%AE%E5%88%9D%E6%9C%9F%E8%A8%AD%E5%AE%9A/
