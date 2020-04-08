@@ -30,3 +30,4 @@
 - [atch関数（ 複雑なDB操作）](https://docs.microsoft.com/ja-jp/powerapps/maker/canvas-apps/functions/function-patch)
 - [コネクタ一覧](https://flow.microsoft.com/ja-JP/connectors/)
 - [標準コネクタ](https://docs.microsoft.com/ja-jp/powerapps/maker/canvas-apps/connections-list#popular-connectors)
+- [PowerAppsでやるべき？](https://www.slideshare.net/TeruchikaYamada/powerapps-134047982)
